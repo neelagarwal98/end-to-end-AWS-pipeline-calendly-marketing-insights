@@ -20,7 +20,7 @@ The primary objective of this project is to **construct a robust data‑engineer
 
 The solution follows a **Lambda Architecture** that combines batch processing for historical data with streaming for real‑time events. It uses fully managed AWS services—Lambda, Glue, S3, EventBridge, API Gateway, Athena, Secrets Manager and QuickSight—to minimise operational overhead and scale automatically. The high‑level design is shown below:
 
-![architecture][architecture.jpg]
+![architecture](architecture.jpg)
 
 **Key components**
 
